@@ -1,6 +1,6 @@
 # Cloud Computing Coursework – Phase 1
 Abdelrahman Almatrooshi
-Repo: coursework-abdelrahman-almatrooshi
+Repo: https://github.com/5CCSACCA/coursework-abdelrahman-almatrooshi
 ---
 
 # 1. Project Summary
