@@ -1,3 +1,4 @@
+# Review: This dockerfile installs necessary dependencies for a FastAPI application. It would be good to put the file within the app folder to keep things organized.
 FROM python:3.10-slim
 WORKDIR /app
 COPY . /app

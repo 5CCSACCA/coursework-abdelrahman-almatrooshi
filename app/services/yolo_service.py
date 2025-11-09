@@ -1,3 +1,4 @@
+# Review: This code defines a simple object detection service using the YOLO model from the ultralytics library. Please use the standard practices for code documentation.
 from ultralytics import YOLO
 
 # Load the yolo model

@@ -1,1 +1,4 @@
 These are the extra review notes apart from the code.
+Gitflow: this repository should follow gitflow branching model. However, it only uses the main branch. Please create develop, release, and hotfix branches as per gitflow guidelines.
+API: The API for the vision service works properly, but more endpoints could be added for better functionality, such as endpoints for managing databases.
+Compose: The compose file works correctly but it requires more services apart from the vision service. Start considering adding a database service, the llm and communication services.

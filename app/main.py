@@ -1,3 +1,4 @@
+# Review: this module implements a FastAPI application that provides an endpoint for analyzing images. It works by accepting an uploaded image file, saving it temporarily, and then using two services: one for object detection (YOLO) and another for scene summarization (BitNet). The results from both services are returned in the response. Please, use proper documentation standards for the code. Also, you will need to add more endpoints later.
 from fastapi import FastAPI, UploadFile, File
 import tempfile, shutil, os
 from app.services.yolo_service import detect_objects

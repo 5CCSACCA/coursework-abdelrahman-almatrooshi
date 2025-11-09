@@ -1,3 +1,4 @@
+# This module is supposed to define a bitnet service but currently only contains a function to summarize detected objects in a scene. Please separate the service into a different folder with all the dependencies and keep this file for the summarize_scene function only.
 from collections import Counter
 
 def summarize_scene(objects: list):

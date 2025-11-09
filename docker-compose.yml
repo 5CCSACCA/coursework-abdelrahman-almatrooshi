@@ -1,3 +1,4 @@
+# Review: This compose file sets up a FastAPI application in a Docker container. It is simple, consider adding a volume for code persistence and more services.
 services:
   fastapi:
     build: .
